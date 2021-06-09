@@ -1,0 +1,604 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "OGUERA CBLACK/CBLACK/GREFIV",
+      "images": [
+        "/img/products/product-1.jpg",
+        "/img/products/product-1_2.jpg"
+      ],
+      "price": "2393",
+      "wishList": false,
+      "appointment": "повседневная",
+      "county": "Вьетнам",
+      "equipment": "кроссовки",
+      "structure": "натуральная кожа 60%, синтетический материал 40%",
+      "description": "",
+      "new": false,
+      "size": [
+        37,
+        42
+      ],
+      "categoryId": 1,
+      "brandId": 1
+    },
+    {
+      "id": 2,
+      "name": "HOOPS 2.0 CRENAV/FTWWHT/GUM5",
+      "images": [
+        "/img/products/product-2.jpg",
+        "/img/products/product-2_2.jpg"
+      ],
+      "price": "2393",
+      "wishList": false,
+      "appointment": "повседневная",
+      "county": "Вьетнам",
+      "equipment": "кроссовки",
+      "structure": "текстиль 40%, синтетический материал 60%",
+      "description": "",
+      "new": false,
+      "size": [
+        37,
+        42,
+        43,
+        44
+      ],
+      "categoryId": 1,
+      "brandId": 1
+    },
+    {
+      "id": 3,
+      "name": "GRAND COURT BASE FTWWHT/CBLACK/DKBLUE",
+      "images": [
+        "/img/products/product-3.jpg",
+        "/img/products/product-3_2.jpg"
+      ],
+      "price": "1851",
+      "wishList": false,
+      "appointment": "повседневная",
+      "county": "Вьетнам",
+      "equipment": "кроссовки",
+      "new": false,
+      "size": [
+        37,
+        38,
+        39,
+        42,
+        43,
+        44
+      ],
+      "structure": "искусственная кожа 100%",
+      "description": "Эта обувь в стиле 70-х годов имеет гладкую верхнюю часть. Они сверкают перфорированными 3-полосными элементами с одной стороны и сшиты контрастными 3-полосными элементами с другой. Сверхмягкая амортизация обеспечивает плавность хода.",
+      "categoryId": 1,
+      "brandId": 1
+    },
+    {
+      "id": 4,
+      "name": "VL COURT 2.0",
+      "images": [
+        "/img/products/product-4.jpg",
+        "/img/products/product-4_2.jpg"
+      ],
+      "price": "2317",
+      "wishList": false,
+      "appointment": "повседневная",
+      "county": "Индонезия",
+      "equipment": "кроссовки",
+      "new": false,
+      "size": [
+        37,
+        39,
+        43,
+        44
+      ],
+      "structure": "натуральная замша 100%",
+      "description": "Универсальные кеды с Т-образным мыском в аутентичном стиле. Верх из замши и резиновая подошва. Текстильная подкладка дарит приятный комфорт, как в разношенных кроссовках. Верх из натуральной замши с Т-образным мыском и вставками из синтетических материаловТканый ярлычок adidas на язычке. Удобная текстильная подкладка. Три полоски. Резиновая подошва.",
+      "categoryId": 1,
+      "brandId": 1
+    },
+    {
+      "id": 5,
+      "name": "MANOA LEATHER",
+      "images": [
+        "/img/products/product-5.jpg",
+        "/img/products/product-5_2.jpg"
+      ],
+      "price": "4129",
+      "wishList": false,
+      "new": true,
+      "size": [
+        37,
+        39,
+        41,
+        43,
+        44
+      ],
+      "appointment": "повседневная",
+      "county": "Китай",
+      "equipment": "ботинки",
+      "structure": "натуральная кожа, синтетический материал",
+      "description": "",
+      "categoryId": 2,
+      "brandId": 2
+    },
+    {
+      "id": 6,
+      "name": "MANOA LEATHER",
+      "images": [
+        "/img/products/product-6.jpg",
+        "/img/products/product-6_2.jpg"
+      ],
+      "price": "4759",
+      "new": true,
+      "size": [
+        37,
+        39,
+        43,
+        44
+      ],
+      "wishList": false,
+      "appointment": "повседневная",
+      "county": "Вьетнам",
+      "equipment": "ботинки",
+      "structure": "натуральная кожа, синтетический материал",
+      "description": "",
+      "categoryId": 2,
+      "brandId": 2
+    },
+    {
+      "id": 7,
+      "name": "PREDATOR FREAK .4 F ROYBLU/FTWWHT/CBLACK",
+      "images": [
+        "/img/products/product-7.jpg",
+        "/img/products/product-7_2.jpg"
+      ],
+      "price": "2633",
+      "wishList": true,
+      "new": true,
+      "size": [
+        36,
+        39,
+        44
+      ],
+      "appointment": "футбол",
+      "county": "Камбоджа",
+      "equipment": "бутсы",
+      "structure": "синтетический материал 100%",
+      "description": "",
+      "categoryId": 3,
+      "brandId": 1
+    },
+    {
+      "id": 8,
+      "name": "PREDATOR FREAK .3 F BYELLO/BLUE/CBLACK",
+      "images": [
+        "/img/products/product-8.jpg",
+        "/img/products/product-8_2.jpg"
+      ],
+      "price": "3647",
+      "wishList": true,
+      "new": true,
+      "size": [
+        36,
+        42,
+        44
+      ],
+      "appointment": "футбол",
+      "county": "Индонезия",
+      "equipment": "бутсы",
+      "structure": "текстиль 40%, синтетический материал 60%",
+      "description": "",
+      "categoryId": 3,
+      "brandId": 1
+    },
+    {
+      "id": 9,
+      "name": "Ботинки для туризма",
+      "images": [
+        "/img/products/product-9.jpg",
+        "/img/products/product-9_2.jpg"
+      ],
+      "price": "8711",
+      "wishList": false,
+      "new": true,
+      "size": [
+        36,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "appointment": "Туризм",
+      "county": "Вьетнам",
+      "equipment": "Ботинки",
+      "structure": "натуральная кожа, синтетический материал",
+      "description": "",
+      "categoryId": 4,
+      "brandId": 3
+    },
+    {
+      "id": 10,
+      "name": "Кроссовки Evare",
+      "images": [
+        "/img/products/product-10.jpg",
+        "/img/products/product-10_2.jpg"
+      ],
+      "price": "4442",
+      "wishList": false,
+      "appointment": "Бег",
+      "county": "Вьетнам",
+      "equipment": "Кроссовки",
+      "structure": "полиэстер 81%, полиуретан 19%",
+      "description": "",
+      "new": true,
+      "size": [
+        36,
+        39,
+        41,
+        42,
+        43,
+        44
+      ],
+      "categoryId": 5,
+      "brandId": 4
+    },
+    {
+      "id": 11,
+      "name": "Кроссовки",
+      "images": [
+        "/img/products/product-11.jpg",
+        "/img/products/product-11_2.jpg"
+      ],
+      "price": "5637",
+      "wishList": false,
+      "appointment": "Бег",
+      "county": "Вьетнам",
+      "equipment": "Кроссовки",
+      "new": false,
+      "size": [
+        36,
+        39,
+        40,
+        41,
+        43,
+        44
+      ],
+      "structure": "полиэстер 58%, полиуретан 42%",
+      "description": "",
+      "categoryId": 5,
+      "brandId": 4
+    },
+    {
+      "id": 12,
+      "name": "Кроссовки REEBOK ROYAL EC RID VECNAV/VECRED/FTWWHT",
+      "images": [
+        "/img/products/product-12.jpg",
+        "/img/products/product-12_2.jpg"
+      ],
+      "price": "2632",
+      "wishList": false,
+      "appointment": "Тренировки",
+      "county": "Вьетнам",
+      "equipment": "Кроссовки",
+      "new": false,
+      "size": [
+        36,
+        40,
+        41,
+        42,
+        44
+      ],
+      "structure": "текстиль 40%, синтетический материал 60%",
+      "description": "Эти кроссовки готовы навести шума на улицах города. За хайп отвечают массивная подошва и фирменный стиль Reebok. Яркие боковые полосы делают акцент на их спортивном прошлом. Амортизирующая подошва дарит комфорт и мягкость каждому шагу.",
+      "categoryId": 6,
+      "brandId": 5
+    },
+    {
+      "id": 13,
+      "name": "Кроссовки REEBOK ROYAL EC RID BLACK/PUGRY3/NEOMNT",
+      "images": [
+        "/img/products/product-13.jpg",
+        "/img/products/product-13_2.jpg"
+      ],
+      "price": "2632",
+      "wishList": false,
+      "appointment": "Тренировки",
+      "county": "Китай",
+      "new": false,
+      "size": [
+        36,
+        39,
+        41,
+        43
+      ],
+      "equipment": "Кроссовки",
+      "structure": "текстиль 40%, синтетический материал 60%",
+      "description": "",
+      "categoryId": 6,
+      "brandId": 5
+    },
+    {
+      "id": 14,
+      "name": "DC Shoes / Кеды",
+      "images": [
+        "/img/products/product-14.jpg",
+        "/img/products/product-14_2.jpg"
+      ],
+      "price": "3019",
+      "wishList": false,
+      "appointment": "Повседневная",
+      "county": "Китай",
+      "new": false,
+      "size": [
+        44
+      ],
+      "equipment": "Кеды",
+      "structure": "текстиль 100%",
+      "description": "Мужские кеды. ХАРАКТЕРИСТИКИ: Парусиновый верх | На подкладке из сетки | Принт с логотипом | Вулканизированная конструкция залог гибкости подошвы и чуткого контроля доски | Износостойкая рифленая подошва из каучука с фирменным рисунком протектора DC Pill Pattern",
+      "categoryId": 8,
+      "brandId": 6
+    },
+    {
+      "id": 15,
+      "name": "DC Shoes / Кеды",
+      "images": [
+        "/img/products/product-15.jpg",
+        "/img/products/product-15_2.jpg"
+      ],
+      "price": "3419",
+      "wishList": false,
+      "appointment": "Повседневная",
+      "county": "Китай",
+      "equipment": "Кеды",
+      "new": false,
+      "size": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "structure": "текстиль 100%",
+      "description": "",
+      "categoryId": 8,
+      "brandId": 6
+    },
+    {
+      "id": 16,
+      "name": "DC Shoes / Кеды",
+      "images": [
+        "/img/products/product-16.jpg",
+        "/img/products/product-16_2.jpg"
+      ],
+      "price": "3019",
+      "wishList": false,
+      "appointment": "Повседневная",
+      "county": "Китай",
+      "equipment": "Кеды",
+      "new": false,
+      "size": [
+        36,
+        39,
+        40
+      ],
+      "structure": "текстиль 100%",
+      "description": "Мужские кеды. ХАРАКТЕРИСТИКИ: Парусиновый верх | На подкладке из сетки | Принт с логотипом | Вулканизированная конструкция залог гибкости подошвы и чуткого контроля доски | Износостойкая рифленая подошва из каучука с фирменным рисунком протектора DC Pill Pattern",
+      "categoryId": 8,
+      "brandId": 6
+    },
+    {
+      "id": 17,
+      "name": "DC Shoes / Кеды",
+      "images": [
+        "/img/products/product-17.jpg",
+        "/img/products/product-17_2.jpg"
+      ],
+      "price": "3419",
+      "wishList": false,
+      "appointment": "Повседневная",
+      "county": "Китай",
+      "equipment": "Кеды",
+      "new": false,
+      "size": [
+        36,
+        41,
+        42,
+        43,
+        44
+      ],
+      "structure": "натуральная кожа 100%",
+      "description": "",
+      "categoryId": 8,
+      "brandId": 6
+    },
+    {
+      "id": 18,
+      "name": "DC Shoes / Кеды",
+      "images": [
+        "/img/products/product-18.jpg",
+        "/img/products/product-18_2.jpg"
+      ],
+      "price": "3459",
+      "wishList": false,
+      "appointment": "Повседневная",
+      "county": "Китай",
+      "equipment": "Кеды",
+      "new": false,
+      "size": [
+        41
+      ],
+      "structure": "натуральная кожа 100%",
+      "description": "",
+      "categoryId": 8,
+      "brandId": 6
+    },
+    {
+      "id": 19,
+      "name": "Аквасоки TERREX CC JAWPAW II",
+      "images": [
+        "/img/products/product-19.jpg",
+        "/img/products/product-19_2.jpg"
+      ],
+      "price": "2279",
+      "wishList": false,
+      "appointment": "плавание",
+      "county": "Китай",
+      "new": false,
+      "size": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "equipment": "Шлепанцы",
+      "structure": "текстиль 60%, синтетический материал 40%",
+      "description": "Незаменимая обувь для пляжного отдыха и водных видов спорта. Технология Climacool обеспечивает вентиляцию стопы на 360 градусов, а подошва из резины Stealth гарантирует отличное сцепление даже с мокрой поверхностью. Дренажные отверстия для быстрого отвода воды. Технология Climacool сохраняет приятные ощущения прохлады и свежести благодаря специальным сетчатым вставкам. Текстильный верх с синтетическими вставками; сетчатое голенище. Конструкция без застежек для легкого снимания и надевания. Дренажная система adidas с перфорированной промежуточной подошвой и подметкой для максимально быстрого отвода воды. Резиновая подметка со специальным глубоким протектором адаптирована для максимального сцепления даже с влажной поверхностью. Основные материалы: верх из текстиля и синтетических материалов; текстильная подкладка; резиновая подошва.",
+      "categoryId": 7,
+      "brandId": 1
+    },
+    {
+      "id": 20,
+      "name": "Шлепанцы ADILETTE COMFORT CBLACK/FTWWHT/CBLACK",
+      "images": [
+        "/img/products/product-20.jpg",
+        "/img/products/product-20_2.jpg"
+      ],
+      "price": "2179",
+      "wishList": false,
+      "appointment": "плавание",
+      "new": false,
+      "size": [
+        36,
+        39,
+        40
+      ],
+      "county": "Вьетнам",
+      "equipment": "Шлепанцы",
+      "structure": "синтетический материал 100%",
+      "description": "",
+      "categoryId": 7,
+      "brandId": 1
+    },
+    {
+      "id": 21,
+      "name": "сандалии DURAMO SL SANDAL CBLACK/FTWWHT/CBLACK",
+      "images": [
+        "/img/products/product-21.jpg",
+        "/img/products/product-21_2.jpg"
+      ],
+      "price": "2179",
+      "wishList": false,
+      "appointment": "",
+      "new": true,
+      "size": [
+        42,
+        43,
+        44
+      ],
+      "county": "Вьетнам",
+      "equipment": "Шлепанцы/сандалии",
+      "structure": "синтетический материал 100%",
+      "description": "",
+      "categoryId": 7,
+      "brandId": 2
+    }
+  ],
+  "slides": [
+    {
+      "id": 1,
+      "path": "./img/slide-1.jpg",
+      "link": "/catalog"
+    },
+    {
+      "id": 2,
+      "path": "./img/slide-2.jpg",
+      "link": "/catalog"
+    },
+    {
+      "id": 3,
+      "path": "./img/slide-3.jpg",
+      "link": "/catalog"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Кроссовки",
+      "link": "/catalog/sneakers"
+    },
+    {
+      "id": 2,
+      "name": "Ботинки",
+      "link": "/catalog/boots"
+    },
+    {
+      "id": 3,
+      "name": "Бутсы",
+      "link": "/catalog/cleats"
+    },
+    {
+      "id": 4,
+      "name": "Туризм",
+      "link": "/catalog/tourism"
+    },
+    {
+      "id": 5,
+      "name": "Бег",
+      "link": "/catalog/running"
+    },
+    {
+      "id": 6,
+      "name": "Тренировки",
+      "link": "/catalog/training"
+    },
+    {
+      "id": 7,
+      "name": "Шлепанцы",
+      "link": "/catalog/flip-flops"
+    },
+    {
+      "id": 8,
+      "name": "Кеды",
+      "link": "/catalog/keds"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Adidas",
+      "path": "./img/brands/brands-1.jpg",
+      "link": "/catalog/brands/adidas"
+    },
+    {
+      "id": 2,
+      "name": "Nike",
+      "path": "./img/brands/brand-2.png",
+      "link": "/catalog/brands/nike"
+    },
+    {
+      "id": 3,
+      "name": "Lacoste",
+      "path": "./img/brands/brands-5.jpg",
+      "link": "/catalog/brands/lacoste"
+    },
+    {
+      "id": 4,
+      "name": "New Balance",
+      "path": "./img/brands/brands-6.jpg",
+      "link": "/catalog/brands/new-balance"
+    },
+    {
+      "id": 5,
+      "name": "Reebok",
+      "path": "./img/brands/brands-4.jpg",
+      "link": "/catalog/brands/reebok"
+    },
+    {
+      "id": 6,
+      "name": "DC",
+      "path": "./img/brands/brands-3.jpg",
+      "link": "/catalog/brands/dc"
+    }
+  ]
+}
