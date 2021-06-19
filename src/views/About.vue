@@ -8,7 +8,7 @@
         <div>
           <div class="about">
             <p class="decor font-bold text-3xl">
-              Sneakk – это интернет каталог обуви с 20 летним стажем.
+              Sneakk – это интернет каталог обуви с 20 летним стажем
             </p>
             <p class="decor">
               Каталог Sneakk – это воплощение парижского вкуса и стиля,
